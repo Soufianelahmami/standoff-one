@@ -46,12 +46,12 @@
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://freeimghost.net/i/5Qbka"},
+  {"desc2":"In the dynamic world of competitive gaming, Standoff One has emerged as a formidable presence, captivating players and spectators alike","photo2":"https://freeimghost.net/i/5QEom"},
+  {"desc3":"With its intense gameplay, strategic depth, and passionate community, Standoff One has cemented its position as a leading title in the realm of mobile first-person shooter (FPS) esports. In this article","photo3":"https://freeimghost.net/i/5Q10V"},
+  {"desc4":"we delve into the captivating world of Standoff One and explore what sets it apart from other esports titles.","photo4":"https://freeimghost.net/i/5Q2Gt"},
+  {"desc5":"Standoff One, developed by Axlebolt, is a free-to-play mobile FPS game that combines elements of tactical gameplay, teamwork, and fast-paced action","photo5":"https://freeimghost.net/i/5QMUe"},
+  {"descd":"One of the defining aspects of Standoff One is its strategic depth. While the game rewards individual skill and reflexes","photod":"https://freeimghost.net/i/5QOnS"}
    ]
  
 }
